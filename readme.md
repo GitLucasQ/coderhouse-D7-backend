@@ -7,7 +7,7 @@ Esta pequeña app web contiene un mantenedor de productos básico con un chat in
 - Instalar el paquete de [XAMPP](https://www.apachefriends.org/es/index.html) para la base de datos MySQL.
 - Luego de conectar al cliente MySQL ejecutar el siguiente script para crear la base de datos que se usará:
 ```sql
-create database 'productos';
+create database 'coder';
 ```
 
 Luego de instalar lo necesario, ingresar al proyecto y ejecutar los scripts:
