@@ -12,6 +12,7 @@ create database 'coder';
 
 Luego de instalar lo necesario, ingresar al proyecto y ejecutar los scripts:
 ```bash
+npm install
 npm run build
 npm start
 ```
